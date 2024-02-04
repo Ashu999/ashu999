@@ -3,7 +3,7 @@
 I'm Ashu,
 
 - I’m currently learning rust and exploring open-source rust projects
-- How to reach me: on Discord (@chill_cheese)
+- How to reach me: I'm on Discord (@chill_cheese)
 
 ### Intersed in
 - solving problems and endless learning
