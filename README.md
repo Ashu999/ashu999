@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Ashu999/ashu999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ashu,
 
-Here are some ideas to get you started:
+- I’m currently learning rust and exploring open-source rust projects
+- How to reach me: on Discord (@chill_cheese)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Intersed in
+- solving problems and learning deeply
+- system design, distributed computing
+
+### So far Worked on
+- full stack web dev (as a profession for 2 years) + some dev ops
+- personal project for personal problem (https://github.com/Ashu999/price-tracker-app)
+- explored web3 space, deep enough (mostly ethereum, bitcoin)  (https://github.com/Ashu999/hackweb3)
+
+### OSS contributions
+- https://github.com/matrix-org/matrix-react-sdk/pull/10007
