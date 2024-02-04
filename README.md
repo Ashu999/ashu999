@@ -10,7 +10,7 @@ I'm Ashu,
 - system design, distributed computing
 
 ### So far Worked on
-- full stack web dev (as a profession for 2 years) + some dev ops
+- full stack web dev (as profession for 2+ years) + some dev ops
 - personal project (https://github.com/Ashu999/price-tracker-app)
 - explored web3 space, deep enough (mostly ethereum, bitcoin)  (https://github.com/Ashu999/hackweb3)
 
