@@ -6,7 +6,7 @@ I'm Ashu,
 - How to reach me: I'm on Discord (@chill_cheese)
 
 ### Intersed in
-- solving problems and endless learning
+- solving problems and learnings deeply
 - system design, distributed computing
 
 ### So far Worked on
