@@ -6,10 +6,10 @@ I'm Ashu,
 - How to reach me: I'm on Discord (@chill_cheese)
 
 ### Intersed in
-- solving problems and learnings deeply
+- solving problems and learning deeply
 - system design, distributed computing
 
-### So far Worked on
+### Worked on
 - full stack web dev (as profession for 2+ years) + some dev ops
 - personal project (https://github.com/Ashu999/price-tracker-app)
 - explored web3 space, deep enough (mostly ethereum, bitcoin)  (https://github.com/Ashu999/hackweb3)
