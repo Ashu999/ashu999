@@ -2,7 +2,7 @@
 
 I'm Ashu,
 
-- I’m currently learning rust and exploring open-source rust projects
+- I’m currently learning rust and exploring open-source projects
 
 ### Intersed in
 - solving problems and in-depth learning
