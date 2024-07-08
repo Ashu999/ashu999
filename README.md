@@ -15,3 +15,4 @@ I'm Ashu,
 
 ### OSS contributions
 - https://github.com/matrix-org/matrix-react-sdk/pull/10007
+- https://github.com/getgrit/gritql/pull/298
