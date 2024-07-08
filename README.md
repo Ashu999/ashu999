@@ -14,5 +14,5 @@ I'm Ashu,
 - explored web3 space, deep enough (mostly ethereum, bitcoin)  (https://github.com/Ashu999/hackweb3)
 
 ### OSS contributions
-- https://github.com/matrix-org/matrix-react-sdk/pull/10007
 - https://github.com/getgrit/gritql/pull/298
+- https://github.com/matrix-org/matrix-react-sdk/pull/10007
