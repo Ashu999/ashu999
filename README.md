@@ -11,7 +11,7 @@ I'm Ashu,
 ### Worked on
 - full stack web dev (as profession about 2+ years) + devops
 - personal project (https://github.com/Ashu999/price-tracker-app)
-- explored web3 space, deep enough (mostly ethereum, bitcoin)  (https://github.com/Ashu999/hackweb3)
+- explored web3/decentralization (mostly ethereum, bitcoin)  (https://github.com/Ashu999/hackweb3)
 
 ### OSS contributions
 - https://github.com/getgrit/gritql/pull/298
