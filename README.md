@@ -3,7 +3,7 @@
 I'm Ashu,
 
 - exploring open-source projects, mostly rust based
-- building: https://github.com/Ashu999/web-value-tracker
+- building (cross-platform rust app): https://github.com/Ashu999/web-value-tracker
 
 ### Worked on
 - full stack web development (about 2+ years) + devops
