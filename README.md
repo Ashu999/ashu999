@@ -2,7 +2,8 @@
 
 I'm Ashu,
 
-- I’m currently building projects in rust and exploring open-source
+- exploring open-source projects
+- building: https://github.com/Ashu999/web-value-tracker
 
 ### Worked on
 - full stack web development (about 2+ years) + devops
