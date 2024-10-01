@@ -2,11 +2,10 @@
 
 I'm Ashu,
 
-- I’m currently learning rust and exploring open-source projects
+- I’m currently building projects in rust and exploring open-source
 
 ### Worked on
-- full stack web dev (about 2+ years) + devops
-- personal project (https://github.com/Ashu999/price-tracker-app)
+- full stack web development (about 2+ years) + devops
 - explored web3/decentralization (mostly ethereum, bitcoin)  (https://github.com/Ashu999/hackweb3)
 
 ### Intersed in
