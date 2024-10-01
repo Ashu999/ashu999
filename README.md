@@ -2,7 +2,7 @@
 
 I'm Ashu,
 
-- exploring open-source projects
+- exploring open-source projects, mostly rust based
 - building: https://github.com/Ashu999/web-value-tracker
 
 ### Worked on
