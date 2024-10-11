@@ -15,5 +15,6 @@ I'm Ashu,
 - system design, distributed computing
 
 ### OSS contributions
+- https://github.com/spaceandtimelabs/sxt-proof-of-sql/pull/190
 - https://github.com/getgrit/gritql/pull/298
 - https://github.com/matrix-org/matrix-react-sdk/pull/10007
