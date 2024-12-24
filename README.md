@@ -18,3 +18,6 @@ I'm Ashu,
 - https://github.com/spaceandtimelabs/sxt-proof-of-sql/pull/190 (Rust, DB, Crypto)
 - https://github.com/getgrit/gritql/pull/298 (Rust, Compilers)
 - https://github.com/matrix-org/matrix-react-sdk/pull/10007 (React, Typescript)
+
+### Connect
+- [twitter\x](https://x.com/chillmindeye)
