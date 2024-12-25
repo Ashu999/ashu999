@@ -19,5 +19,5 @@ I'm Ashu,
 - https://github.com/getgrit/gritql/pull/298 (Rust, Compilers)
 - https://github.com/matrix-org/matrix-react-sdk/pull/10007 (React, Typescript)
 
-### Connect
+### Connect at
 - [twitter\x](https://x.com/chillmindeye)
