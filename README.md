@@ -21,3 +21,4 @@ I'm Ashu,
 
 ### Connect at
 - [twitter\x](https://x.com/chillmindeye)
+- ashutosh.sharma068@gmail.com
