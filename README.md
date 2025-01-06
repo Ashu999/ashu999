@@ -20,5 +20,4 @@ I'm Ashu,
 - https://github.com/matrix-org/matrix-react-sdk/pull/10007 (React, Typescript)
 
 ### Connect at
-- [twitter\x](https://x.com/chillmindeye)
 - ashutosh.sharma068@gmail.com
