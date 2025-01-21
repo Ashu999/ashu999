@@ -5,7 +5,7 @@ I'm Ashu,
 - exploring open-source rust projects
 
 ### Worked on
-- building (cross-platform rust app): https://github.com/Ashu999/web-value-tracker
+- cross-platform rust app: https://github.com/Ashu999/web-value-tracker
 - full stack web development (backend focused) (about 4+ years) + devops
 - amazon price tracker: https://github.com/Ashu999/price-tracker-app
 - explored web3/decentralization (mostly ethereum, bitcoin, solana)  (https://github.com/Ashu999/hackweb3)
