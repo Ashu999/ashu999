@@ -6,7 +6,7 @@ I'm Ashu,
 - cross-platform rust app: https://github.com/Ashu999/web-value-tracker
 
 ### Worked on
-- full stack web development (backend focused) (about 4+ years) + devops
+- full stack web development (backend focused) (about 4+ years) + some devops
 - explored web3/decentralization (mostly ethereum, bitcoin, solana)  (https://github.com/Ashu999/hackweb3)
 
 ### Intersed in
