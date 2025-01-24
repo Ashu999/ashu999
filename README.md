@@ -2,8 +2,8 @@
 
 I'm Ashu,
 ### Built
-- cross-platform rust app: https://github.com/Ashu999/web-value-tracker
 - full stack web app: https://github.com/Ashu999/price-tracker-app
+- cross-platform rust app: https://github.com/Ashu999/web-value-tracker
 
 ### Worked on
 - full stack web development (backend focused) (about 4+ years) + devops
