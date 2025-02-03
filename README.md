@@ -18,5 +18,5 @@ I'm Ashu,
 - solving problems and in-depth learning
 - system design, distributed computing
 
-### Connect at
+### Contact
 - ashutosh.sharma068@gmail.com
