@@ -12,7 +12,7 @@ I'm Ashu,
 - https://github.com/matrix-org/matrix-react-sdk/pull/10007 (React, Typescript)
 
 ### Worked on
-- full stack web development (backend focused) (about 4+ years) + some devops
+- full stack web development (about 4+ years) + some devops
 - explored web3/decentralization (mostly ethereum, bitcoin, solana)  (https://github.com/Ashu999/hackweb3)
 
 ### Intersed in
