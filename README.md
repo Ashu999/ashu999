@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ashu,
+I'm Ashutosh,
 
 ### Projects 
 - full stack web app: https://github.com/Ashu999/price-tracker-app
