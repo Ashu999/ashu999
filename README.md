@@ -2,7 +2,7 @@
 
 I'm Ashutosh,
 
-### Projects
+### Personal Projects
 - Full stack web app: https://github.com/Ashu999/price-tracker-app
 - Cross-platform rust app: https://github.com/Ashu999/web-value-tracker
 - AI app to chat with youtube videos: https://github.com/Ashu999/yt-chat
