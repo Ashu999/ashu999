@@ -12,9 +12,8 @@ I'm Ashutosh,
 - https://github.com/getgrit/gritql/pull/298 (Rust, Compilers)
 - https://github.com/matrix-org/matrix-react-sdk/pull/10007 (React, Typescript)
 
-### Worked on
-- Full stack web development (about 4+ years) + some devops
-- Explored web3/decentralization (mostly ethereum, bitcoin, solana)  (https://github.com/Ashu999/hackweb3)
+### Worked as
+- Full stack web development (backend focused) (about 5+ years) + some devops
 
 ### Intersed in
 - Solving problems and in-depth learning
