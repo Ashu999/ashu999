@@ -13,7 +13,7 @@ I'm Ashutosh,
 - https://github.com/matrix-org/matrix-react-sdk/pull/10007 (React, Typescript)
 
 ### Worked as
-- Full stack web development (backend focused) (about 5+ years) + some devops
+- Full stack web developer (backend focused) (about 5+ years) + some devops
 
 ### Intersed in
 - Solving problems and in-depth learning
