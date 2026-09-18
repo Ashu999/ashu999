@@ -3,7 +3,7 @@
 I'm Ashutosh,
 
 ### Working as
-- Full stack web developer (backend focused) (about 5+ years) + some devops
+- Full stack web developer (backend focused) (about 5+ years) + devops
 
 ### Personal Projects
 - Full stack web app: https://github.com/Ashu999/price-tracker-app
