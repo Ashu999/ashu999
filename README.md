@@ -2,6 +2,9 @@
 
 I'm Ashutosh,
 
+### Working as
+- Full stack web developer (backend focused) (about 5+ years) + some devops
+
 ### Personal Projects
 - Full stack web app: https://github.com/Ashu999/price-tracker-app
 - Cross-platform rust app: https://github.com/Ashu999/web-value-tracker
@@ -11,9 +14,6 @@ I'm Ashutosh,
 - https://github.com/spaceandtimelabs/sxt-proof-of-sql/pull/190 (Rust, DB)
 - https://github.com/getgrit/gritql/pull/298 (Rust, Compilers)
 - https://github.com/matrix-org/matrix-react-sdk/pull/10007 (React, Typescript)
-
-### Worked as
-- Full stack web developer (backend focused) (about 5+ years) + some devops
 
 ### Intersed in
 - Solving problems and in-depth learning
